@@ -26,8 +26,8 @@ Assalamu Alaikum. I am S. M. Shuzatul Hoque. I am a student of  Information and 
 Skills: /C /C++ / HTML / CSS/ Javascript/ Unity/ C#
 
 - 🔭 I’m currently working on a project - "Interactive web app for ICE Programming club". 
-- 🌱 I’m currently learning React 
-- 💬 Ask me about competitive programming, game development, web development 
+- 🌱 I’m currently learning React. 
+- 💬 Ask me about competitive programming, game development, web development. 
 
 
 
