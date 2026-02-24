@@ -13,7 +13,7 @@
 - 💻 Passionate about **Full Stack Development**
 - 🌐 Love building with modern web technologies
 - ⚙️ Comfortable with both frontend & backend architecture
-- 📱 Expanding into mobile development with React Native
+- 📱 Expanding into **Mobile Development with React Native**
 - 🎮 Exploring **Game Development with Unity**
 - 🧠 Strong foundation from competitive programming background
 - 📚 Always learning and improving
