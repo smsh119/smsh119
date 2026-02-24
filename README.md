@@ -1,30 +1,84 @@
-<!--### Hi there 👋
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm S.M. Shuzatul Hoque</h1>
+<h3 align="center">🚀 Full-Stack Engineer • Web & Mobile Enthusiast • Game Dev Explorer • Systems-Aware Developer</h3>
 
--->
+<p align="center">
+  Building scalable web apps, interactive experiences, and learning something new every day.
+</p>
 
-<!--
-**smsh119/smsh119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate about **Full Stack Development**
+- 🌐 Love building with modern web technologies
+- ⚙️ Comfortable with both frontend & backend architecture
+- 📱 Expanding into mobile development with React Native
+- 🎮 Exploring **Game Development with Unity**
+- 🧠 Strong foundation from competitive programming background
+- 📚 Always learning and improving
 
-## Hello! 👋👋
+---
 
-Assalamu Alaikum. I am S. M. Shuzatul Hoque. I am currently working as a Web Developer at ReliSource Technologies LTD. I was a student of  Information and Communication Engineering at the University of Rajshahi. I am a competitive programmer. The languages I use in competitive programming are C and C++. I am also a Web Developer and a Game Developer. I know HTML, CSS, Tailwind, Javascript, React.js, Next.js. I can design and develop a complete website quiet well. I develop games using the game engine called Unity. I have also trained myself with unity based C# to develop games using unity. I am good at graphics design. I can work with Adobe Photoshop, Adobe Illustrator and Figma as well. I truly believe that there is no ending of knowledge and there is always much more to learn. So I always welcome new ideas and new things to learn in my way to success.
+## 🧱 Core Stack
 
-Skills: HTML/ CSS/ Javascript/ React/ Next/ Node/ Express/ C/ C++/ Unity/ C#
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next" />
+</p>
 
-🔭 I’m currently working on: React/ Node / Express / MongoDB
- 
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,androidstudio" />
+</p>
+
+---
+
+## 🛠 Engineering Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma,ps" />
+</p>
+
+- Containerized development & deployment  
+- REST API architecture  
+- Production-oriented workflows  
+
+---
+
+## 💻 Technical Foundation
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
+
+- C / C++ (Competitive Programming background)
+- Understanding of data structures & algorithms
+
+---
+
+### 🎮 Game Development
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs" />
+</p>
+
+- C# & Unity (Game Development Experimentation)
+
+---
+
+## 🎯 Current Focus
+
+- Advanced React & Next.js architecture  
+- Scalable frontend & backend systems  
+- Cross-platform mobile applications  
+- Writing cleaner, production-grade code  
+
+---
+
 - 💬 Ask me about web development, competitive programming, game development. 
 
 
