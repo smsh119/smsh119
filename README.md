@@ -79,7 +79,7 @@
 
 ---
 
-- 💬 Ask me about web development, competitive programming, game development. 
+<p align="center">💬 Ask me about web development, competitive programming, game development.</p> 
 
 
 
